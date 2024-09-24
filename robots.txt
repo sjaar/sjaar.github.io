@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sjaar.github.io/tfW/sitemap.tfW.gz
